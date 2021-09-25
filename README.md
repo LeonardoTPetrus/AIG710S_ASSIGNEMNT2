@@ -1,4 +1,2 @@
-# AIG710S_ASSIGNEMNT2
-REPO FOR MY AIG710S ASSIGNMENT 2
-STUDENT: LEONARDO I. PETRUS - 217070418
-ASSIGNMENT DUE DATE - 20th June 2021
+# CNN With FastAI in Julia
+Implementing a CNN and LeNet5 Architecture using FastAI For Image Processing in Julia Programming Language
